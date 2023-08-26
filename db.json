@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,35 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "haha",
+      "dogBreed": "chienleup",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 6
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 7
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 8
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +48,108 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "oualid",
+      "email": "oualid@email.ih",
+      "id": 1
+    },
+    {
+      "name": "oualid",
+      "email": "oualid@email.ih",
+      "id": 2
+    },
+    {
+      "name": "oualid",
+      "email": "oualid@email.ih",
+      "id": 3
+    },
+    {
+      "name": "oualid",
+      "email": "oualid@email.ih",
+      "id": 4
+    },
+    {
+      "name": "oualid",
+      "email": "oualid@email.ih",
+      "id": 5
+    },
+    {
+      "name": "oualid",
+      "email": "oualid@email.ih",
+      "id": 6
+    },
+    {
+      "name": "oualid",
+      "email": "oualid@email.ih",
+      "id": 7
+    },
+    {
+      "name": "oualid",
+      "email": "oualid@email.ih",
+      "id": 8
+    },
+    {
+      "name": "oualid",
+      "email": "oualid@email.ih",
+      "id": 9
+    },
+    {
+      "name": "oualid",
+      "email": "oualid@email.ih",
+      "id": 10
+    },
+    {
+      "name": "oualid",
+      "email": "oualid@email.ih",
+      "id": 11
+    },
+    {
+      "name": "oualid",
+      "email": "oualid@email.ih",
+      "id": 12
+    },
+    {
+      "name": "oualid",
+      "email": "oualid@email.ih",
+      "id": 13
+    },
+    {
+      "name": "oualid",
+      "email": "oualid@email.ih",
+      "id": 14
+    },
+    {
+      "name": "oualid",
+      "email": "oualid@email.ih",
+      "id": 15
+    },
+    {
+      "name": "oualid",
+      "email": "oualid@email.ih",
+      "id": 16
+    },
+    {
+      "name": "oualid",
+      "email": "oualid@email.ih",
+      "id": 17
+    },
+    {
+      "name": "oualid",
+      "email": "oualid@email.ih",
+      "id": 18
+    },
+    {
+      "name": "Oualid",
+      "email": "Oualid@email.ih",
+      "id": 19
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
